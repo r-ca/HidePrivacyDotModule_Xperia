@@ -7,7 +7,7 @@
 ## 詳細
 - `dimen.ongoing_appops_dot_min_padding`を`0`に
 - `config_enablePrivacyDot`を`false`に
-  - 機能してない気もする
+  - ~機能してない気もする~ → 多分こっちが機能している？
 
 ## 動作確認
 - Xperia 5 Mark3
